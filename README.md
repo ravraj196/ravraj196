@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Excel, Power BI and MYSQL**
+- 💬 Ask me about **Excel, Power BI and SQL**
 
 - 📫 How to reach me **ravrajkumar196@gmail.com**
 
-- ⚡ Fun fact **Did you know? Less than 0.5% of all data we create is ever used or analyzed.**
+- ⚡ Fun fact **Did you know?   Less than 0.5% of all data we create is ever used or analyzed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
