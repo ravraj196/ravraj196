@@ -8,13 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Excel, Power BI and SQL**
-
-- 📫 How to reach me **ravrajkumar196@gmail.com**
-
-- ⚡ Fun fact **Did you know?   Less than 0.5% of all data we create is ever used or analyzed.**
+- 🔭 I’m a life long learner, currently exploring more about Data Analytics!
+- 🌱 I’m currently learning and upskilling myself.
+- 🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
+- 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
+- 💬 Ask me about SQL, Power BI.
+- 📫 Reach me at Gmail - ravrajkumar196@gmail.com
+- 🔗 Connect with me at LinkedIn - https://www.linkedin.com/in/rajkumarrav/
+- ❤️ I love learning new things!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
